@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **many private projects**
 
-- 👯 I’m looking to collaborate on **security related projects**
+- 👯 I’m looking to collaborate on **security related projects** and other **python based software solutions**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/GildaRech](https://github.com/GildaRech)
 
 - 💬 Ask me about **python, css, html5**
 
-- 📫 How to reach me **gilda@yongi-tec.com**
+- 📫 How to reach me **hacb45@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
