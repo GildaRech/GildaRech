@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **security related projects** and other **python based software solutions**
 
-- 👨‍💻 All of my public projects are available at [https://github.com/GildaRech](https://github.com/GildaRech)
+- 👨‍💻 All of my public repositories are available at [;-)](https://github.com/GildaRech?tab=repositories)
 
 - 💬 Ask me about **python, css, html5**
 
