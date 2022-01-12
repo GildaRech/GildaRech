@@ -3,7 +3,7 @@
 <!--
 **GildaRech/GildaRech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">Hi 👋, I'm Gilda</h1>
-<h3 align="center">A passionate python developer</h3>
+<h3 align="center">... A passion for Cybersecurity and python software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gildarech&label=Profile%20views&color=0e75b6&style=flat" alt="gildarech" /> </p>
 
