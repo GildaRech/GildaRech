@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my public repositories are available at [;-)](https://github.com/GildaRech?tab=repositories)
 
-- 💬 Ask me about **python, css, html5**
+- 💬 Ask me about **Cybersecurity, python, css, html5...**
 
 - 📫 How to reach me **hacb+45+at+gmail.com**
 
