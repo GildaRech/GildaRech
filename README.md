@@ -3,17 +3,17 @@
 <!--
 **GildaRech/GildaRech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <h1 align="center">Hi 👋, I'm Gilda</h1>
-<h3 align="center">... A passion for Cybersecurity and python software development</h3>
+<h3 align="center">... A passion for Cybersecurity, AI and python software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gildarech&label=Profile%20views&color=0e75b6&style=flat" alt="gildarech" /> </p>
 
 - 🔭 I’m currently working on **many private projects**
 
-- 👯 I’m looking to collaborate on **security related projects** and other **python based software solutions**
+- 👯 I’m looking to collaborate on **security related projects**, **AI projects** and other **python based software solutions**
 
 - 👨‍💻 All of my public repositories are available at [;-)](https://github.com/GildaRech?tab=repositories)
 
-- 💬 Ask me about **Cybersecurity, python, css, html5...**
+- 💬 Ask me about **Cybersecurity, AI, Python, css, html5...**
 
 - 📫 How to reach me **hacb+45+at+gmail.com**
 
