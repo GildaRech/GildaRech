@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Cybersecurity, AI, Python, css, html5...**
 
-- 📫 How to reach me out **hacb+45+at+gmail.com**
+- 📫 How to reach out to me **hacb+45+at+gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
